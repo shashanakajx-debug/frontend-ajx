@@ -53,7 +53,7 @@ function Footer() {
           {/* Left Logo + Description */}
           <div className="flex items-center gap-6">
             <div className="text-3xl font-extrabold tracking-widest">
-              AICHEFARO
+              DINEINFLOW
             </div>
 
             <p className="max-w-sm text-sm leading-relaxed">

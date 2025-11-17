@@ -38,7 +38,7 @@ export default function AIRestaurantLanding() {
               {/* Left side */}
               <div className="flex items-center bg-white/20 rounded-full px-8 py-4">
                 <div className="text-2xl font-bold tracking-tight mr-12">
-                  AI•CHEFARO
+                  DINEINFLOW
                 </div>
                 <div className="hidden md:flex items-center space-x-8">
                   <a
